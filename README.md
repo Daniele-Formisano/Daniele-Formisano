@@ -44,7 +44,7 @@
 
 <p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
 <p align="center">
-  <a href="https://stackshare.io/Daniele-Formisano/my-personal-stack">
+  <a href="[https://stackshare.io/Daniele-Formisano/my-personal-stack](https://camo.githubusercontent.com/1277e538817265e0b303ada22af8c30c622f8a2c0967d595882b832aa2634b0c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176612d3333333333333f7374796c653d666c6174266c6f676f3d4a617661266c6f676f436f6c6f723d303037333936)">
     <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
   </a>
 </p>
