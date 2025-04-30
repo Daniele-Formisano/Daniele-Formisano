@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Daniele</h1>
+<![ChatGPT Image 30 apr 2025, 22_37_47](https://github.com/user-attachments/assets/e4e25df4-aae8-4dc9-bf05-9ec058d42b8c)
+h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">A Junior Full Stack developer from Italy 🇮🇹</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=daniele-formisano" alt="daniele-formisano" /></a> </p>
