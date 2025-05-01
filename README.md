@@ -11,7 +11,7 @@
 <br />
 <br />
 </p>
-<p align="left">Contact me on: <p align="center"></p>danieleformisano5@gmail.com</p>
+<p align="left">Contact me on: <p align="center">danieleformisano5@gmail.com</p></p>
 
 
 <h2 align="center">My stack :man_technologist:</h2>
