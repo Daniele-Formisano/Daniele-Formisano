@@ -2,12 +2,10 @@
 <h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">A Junior Full Stack developer from Italy 🇮🇹</h3>
 
--- 🔭 I’m currently working on [Quill Hive](https://github.com/Daniele-Formisano/QuillHive---Team-Project)
-
 <h2 align="center">About me</h2>
 <p>Something about me</p>
 
-
+-- 🔭 I’m currently working on [Quill Hive](https://github.com/Daniele-Formisano/QuillHive---Team-Project)
 
 
 <h2 align="center">Get in touch with me ☕️</h2>
