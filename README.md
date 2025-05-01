@@ -6,10 +6,9 @@
 
 - 🔭 I’m currently working on [Quill Hive](https://github.com/Daniele-Formisano/QuillHive---Team-Project)
 
-- 📫 How to reach me **danieleformisano5@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Get in touch with me ☕️</h3>
+<p align="center">
+  **danieleformisano5@gmail.com**
 <a href="https://linkedin.com/in/daniele-formisano-fs33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniele formisano" height="30" width="40" /></a>
 <a href="https://instagram.com/danieleformisano5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danieleformisano5" height="30" width="40" /></a>
 </p>
@@ -19,11 +18,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daniele-formisano&" alt="daniele-formisano" /></p>
-
- 
- 
- 
- ## Hi, I'm Daniele👋
 
 
 <h2 align="center">About me</h2>
