@@ -65,11 +65,13 @@
   </a>
 </p>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="center">My stats :bar_chart:</h2>
 
 <h4 align="center">Somebody's watching me... :eyes:</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Daniele-Formisano}/count.svg" alt="Daniele-Formisano :: Visitor's Count" /></p>
+
+<h4 align="center">Most used languages</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Formisano&langs_count=10&theme=radical&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
