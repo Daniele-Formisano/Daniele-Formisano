@@ -1,4 +1,4 @@
-![ChatGPT Image 30 apr 2025, 22_37_47](https://github.com/user-attachments/assets/e4e25df4-aae8-4dc9-bf05-9ec058d42b8c)
+![ChatGPT Image 30 apr 2025, 22_37_47](https://github.com/user-attachments/assets/sdmntpritalynorth.oaiusercontent.com/files/00000000-1cd0-6246-ae9c-537ebe010f9a/raw?se=2025-05-07T15%3A18%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=68eade25-b276-5c00-aa5b-8c2ca2fdb293&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-07T08%3A31%3A27Z&ske=2025-05-08T08%3A31%3A27Z&sks=b&skv=2024-08-04&sig=UMjQMOTzc0aL%2ByUUGZh9FXUhwSkkYQWcX28Jekoj0LM%3D)
 <h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">A Junior Full Stack developer from Italy 🇮🇹</h3>
 
