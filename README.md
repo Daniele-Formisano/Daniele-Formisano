@@ -12,11 +12,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/daniele-formisano-fs33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniele formisano" height="30" width="40" /></a>
 <a href="https://instagram.com/danieleformisano5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="danieleformisano5" height="30" width="40" /></a>
-<br />
-<br />
-</p>
-<p align="left">Contact me on: <p align="center">danieleformisano5@gmail.com</p></p>
-
 
 <h2 align="center">My stack :man_technologist:</h2>
 
@@ -28,11 +23,11 @@
 
 <p align="center"><img src="https://profile-counter.glitch.me/{Daniele-Formisano}/count.svg" alt="Daniele-Formisano :: Visitor's Count" /></p>
 
-<h4 align="center">Most used languages</h4>
+<h4 align="center">I write most...</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Daniele-Formisano&langs_count=10&theme=radical&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">My stats</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Daniele-Formisano&show_icons=true&theme=radical" alt="Daniele-Formisano :: Profile Stats" /></p>
 
