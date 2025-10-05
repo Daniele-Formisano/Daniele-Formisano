@@ -1,4 +1,4 @@
-![Banner](https://sdmntpritalynorth.oaiusercontent.com/files/00000000-1cd0-6246-ae9c-537ebe010f9a/raw?se=2025-05-07T15%3A18%3A31Z&sp=r&sv=2024-08-04&sr=b&scid=68eade25-b276-5c00-aa5b-8c2ca2fdb293&skoid=ae70be19-8043-4428-a990-27c58b478304&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-07T08%3A31%3A27Z&ske=2025-05-08T08%3A31%3A27Z&sks=b&skv=2024-08-04&sig=UMjQMOTzc0aL%2ByUUGZh9FXUhwSkkYQWcX28Jekoj0LM%3D)
+![Banner](https://sdmntpritalynorth.oaiusercontent.com/files/00000000-1cd0-6246-ae9c-537ebe010f9a/raw?se=2025-10-05T12%3A29%3A38Z&sp=r&sv=2024-08-04&sr=b&scid=016ff71f-26b1-5b9e-88db-44b86205c878&skoid=6658dbdd-f305-4d30-8f6b-d62218202cb9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-10-05T05%3A20%3A19Z&ske=2025-10-06T05%3A20%3A19Z&sks=b&skv=2024-08-04&sig=BM1e7H6JdB5V22iTSjtFA9S4292VpY8fkWWbrsdhhlU%3D)
 <h1 align="center">Hi 👋, I'm Daniele</h1>
 <h3 align="center">A Junior Full Stack developer from Italy 🇮🇹</h3>
 
